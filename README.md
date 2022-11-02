@@ -1,15 +1,11 @@
-<style type="text/css">
-      .model_table {
-        margin: 10px;      
-        width: 100%;
-      }
-      .model_table tr:nth-child(even) {
-        background-color: #efefef;
-      }
-      .model_table tr:hover {
-        background-color: #cfcfcf;
-      }
-</style>
+  <head>
+    <title>Подключение стилей CSS к странице HTML разными способами</title>
+    <!-- Подключение файла стилей CSS. В этом файле прописаны общие стили страницы -->
+    <!-- (параметры шрифта, общих блоков, элементов верстки и т.п.) -->
+    <!-- Такой подход позволяет легко вносить изменения в дизайн сайта, так как -->
+    <!-- при изменении свойства элемента в файле, изменится его стиль сразу на всех страницах сайта -->
+   <link href="https://example.com/css/style.css" rel="stylesheet" type="text/css">
+  </head>
 
 
 <div class="cradle">
