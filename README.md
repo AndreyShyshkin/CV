@@ -1,6 +1,8 @@
 
 тут будет резюие
 
+информация пока без офармления
+
 Hello, I’m FrontEnd developer from Ukrainian .
 
 I am engaged in maintaining and refining applications, websites and landing pages using:
