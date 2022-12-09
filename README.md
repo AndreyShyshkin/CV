@@ -1,6 +1,6 @@
 # CV
 
-This is me CV <img scr="https://learningbyleaving.eu/wp-content/uploads/2020/02/Europass-Full-Colour-Brand-Mark.jpg" alt="europass">
+This is me CV ![EUROPASS](https://learningbyleaving.eu/wp-content/uploads/2020/02/Europass-Full-Colour-Brand-Mark.jpg)
 
 
 ## Acknowledgements
