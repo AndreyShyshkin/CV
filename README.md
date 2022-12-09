@@ -1,6 +1,5 @@
 # CV
-
-This is me CV ![EUROPASS](https://learningbyleaving.eu/wp-content/uploads/2020/02/Europass-Full-Colour-Brand-Mark.jpg)
+![EUROPASS](https://learningbyleaving.eu/wp-content/uploads/2020/02/Europass-Full-Colour-Brand-Mark.jpg)
 
 
 ## Acknowledgements
